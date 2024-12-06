@@ -1,8 +1,6 @@
-# Knowledge Distillation of Large Language Models for Bio-species Information Extraction.
+# Knowledge Distillation of Large Language Models for Bio-species Information Extraction. (still  under development)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.15430-B31B1B.svg)](https://arxiv.org/abs/2403.15430)
-
-**This page is still  under development!</font>**
 
 <h3>Overview</h3>
 Large language models (LLM) are known for their vast knowledge coverage. But how much of that knowledge is relevant or accurate for extracting specific information regarding biological species such as amphibians, arthropods, birds, fishes, etc.? In this project, we set out to answer this question. 
