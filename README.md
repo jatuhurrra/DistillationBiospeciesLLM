@@ -1,5 +1,7 @@
 # Knowledge Distillation of Large Language Models for Bio-species Information Extraction.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2403.15430-B31B1B.svg)](https://arxiv.org/abs/2403.15430)
+
 **This page is still  under development!</font>**
 
 <h3>Overview</h3>
