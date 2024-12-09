@@ -136,6 +136,9 @@ Under the NER task, we fine-tuned the three LLMs. PubMedBERT performed better th
 
 For the RE task, we finetuned one LLM i.e., BioBERT (specifically biobert-base-cased-v1.1) from HuggingFace. The weighted f1-score across relation classes is 92.3%. 
 
+<h3>Is GPT-4 a good teacher?</h3>
+It is essential to establish the effectiveness of GPT4 for distilling knowledge about bio species. We compared GPT4 and UniversalNER-7 B's abilities to extract species information from both `easy` and `hard` examples. We found that GPT4 is a better teacher than UniversalNER-7B, validating our strategy to use GPT4 for distilling species information.  
+
 ### Citation
 
 If you find this work or dataset helpful in your research, please cite it as follows:
