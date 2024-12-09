@@ -70,6 +70,12 @@ RE dataset format is shown below:
 ```
 [E1]Holy mountain salamander[/E1] feed on [E2]insects[/E2]
 ```
+The number of instances per relation class is summarized below:
+| Relation | Count |
+|----------|-------|
+| breed by | 570   |
+| feed on  | 582   |
+| live in  | 626   |
 
 <h3>Experiments</h3>
 We deploy several LLMs for the NER and RE evaluation.
