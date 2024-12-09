@@ -2,6 +2,10 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.15430-B31B1B.svg)](https://arxiv.org/abs/2403.15430)
 
+<p align="center">
+  <img src="/images/GPT4species.png" width="60%" alt="Results">
+</p>
+
 <h3>Overview</h3>
 Large language models (LLM) are known for their vast knowledge coverage. But how much of that knowledge is relevant or accurate for extracting specific information regarding biological species such as amphibians, arthropods, birds, fishes, etc.? In this project, we set out to answer this question. 
 
